@@ -1,0 +1,53 @@
+Identificador da maquina: BFEBFBFF00040651
+
+Top 10 Processos que estão consumindo mais:
+PID do Processo: 0
+Uso
+Uso da Memória: 0.0MB
+Uso do CPU: 136.6%
+
+PID do Processo: 8428
+Uso
+Uso da Memória: 0.9MB
+Uso do CPU: 60.5%
+
+PID do Processo: 19084
+Uso
+Uso da Memória: 23.3MB
+Uso do CPU: 36.3%
+
+PID do Processo: 14880
+Uso
+Uso da Memória: 1.1MB
+Uso do CPU: 32.5%
+
+PID do Processo: 6708
+Uso
+Uso da Memória: 1.4MB
+Uso do CPU: 12.4%
+
+PID do Processo: 5724
+Uso
+Uso da Memória: 0.0MB
+Uso do CPU: 4.7%
+
+PID do Processo: 14664
+Uso
+Uso da Memória: 2.7MB
+Uso do CPU: 3.7%
+
+PID do Processo: 12168
+Uso
+Uso da Memória: 1.0MB
+Uso do CPU: 3.2%
+
+PID do Processo: 17908
+Uso
+Uso da Memória: 1.1MB
+Uso do CPU: 2.4%
+
+PID do Processo: 4
+Uso
+Uso da Memória: 0.0MB
+Uso do CPU: 1.3%
+

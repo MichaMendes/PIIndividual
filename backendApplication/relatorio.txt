@@ -1,0 +1,55 @@
+Identificador da maquina: BFEBFBFF00040651
+
+IP atual da maquina: 192.168.15.18
+
+Top 10 Processos que estão consumindo mais:
+PID do Processo: 0
+Uso
+Uso da Memória: 0.0MB
+Uso do CPU: 98.5%
+
+PID do Processo: 13092
+Uso
+Uso da Memória: 1.2MB
+Uso do CPU: 92.3%
+
+PID do Processo: 24300
+Uso
+Uso da Memória: 23.5MB
+Uso do CPU: 78.2%
+
+PID do Processo: 28044
+Uso
+Uso da Memória: 5.1MB
+Uso do CPU: 36.6%
+
+PID do Processo: 25100
+Uso
+Uso da Memória: 1.1MB
+Uso do CPU: 36.4%
+
+PID do Processo: 20416
+Uso
+Uso da Memória: 3.5MB
+Uso do CPU: 7.2%
+
+PID do Processo: 22464
+Uso
+Uso da Memória: 2.1MB
+Uso do CPU: 5.1%
+
+PID do Processo: 25824
+Uso
+Uso da Memória: 0.3MB
+Uso do CPU: 3.3%
+
+PID do Processo: 22504
+Uso
+Uso da Memória: 1.2MB
+Uso do CPU: 1.8%
+
+PID do Processo: 16192
+Uso
+Uso da Memória: 0.5MB
+Uso do CPU: 1.5%
+
