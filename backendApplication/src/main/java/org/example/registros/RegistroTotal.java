@@ -1,5 +1,6 @@
 package org.example.registros;
 
+import com.github.britooo.looca.api.core.Looca;
 import org.example.darkstore.Darkstore;
 import org.example.slack.NotificacaoSlack;
 import org.example.stop.StopProcesso;
@@ -9,8 +10,9 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class RegistroTotal {
-
     public static void cadastrarRegistroDisco(Connection connMySQL, Connection connSQLServer, int idMaquina) {
+
+
         String sql = "INSERT INTO registro " +
                 "(dado, fkComponente, componente_fkMaquina, componente_maquina_fkDarkstore, componente_maquina_fkMetrica_ideal) " +
                 "VALUES(?,?,?,?,?)";

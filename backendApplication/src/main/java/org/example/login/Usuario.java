@@ -18,9 +18,9 @@ public class Usuario {
             usuarioValidado = validarUsuarioNaNuvem(email, senha, Conexao.getConexaoSQLServer());
 
             // Se não conseguiu validar na nuvem, tenta validar na conexão do MySQL
-            if (!usuarioValidado) {
-                usuarioValidado = validarUsuarioNaNuvem(email, senha, Conexao.getConexaoMySQL());
-            }
+//            if (!usuarioValidado) {
+//                usuarioValidado = validarUsuarioNaNuvem(email, senha, Conexao.getConexaoMySQL());
+//            }
 
             return usuarioValidado;
         }
